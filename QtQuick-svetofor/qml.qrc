@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Car1.qml</file>
+        <file>Car2.qml</file>
+        <file>pictures/car1.png</file>
+        <file>pictures/car2.png</file>
+        <file>pictures/road.jpg</file>
+        <file>Light.qml</file>
+        <file>pictures/Light.png</file>
+        <file>pictures/car21.png</file>
+        <file>KeyCatcher.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="EdinoeOkno_program.Authorization_UserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:EdinoeOkno_program"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="#FF164ACF">
+        <GroupBox x:Name="authBox" Header="Вход в приложение" BorderBrush="Black" HorizontalAlignment="Center" VerticalAlignment="Center" Height="205" Width="348" Foreground="White">
+            <Grid Background="#FFFCFCFC">
+                <TextBlock x:Name="feedTextBlock" TextWrapping="Wrap" Text="Пожалуйста, введите ваш логин и пароль сотрудника" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,20,0,0" Width="241" TextAlignment="Center" Foreground="Black" FontSize="10" FontStyle="Italic"/>
+                <Label Content="Логин:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="62,61,0,0"></Label>
+                <TextBox x:Name="loginTextBox" HorizontalAlignment="Center" Width="120" VerticalAlignment="Top" Margin="0,65,0,0" Background="#FFE8F0FE" TextChanged="loginTextBox_TextChanged"/>
+                <Label Content="Пароль:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="54,87,0,0"/>
+                <TextBox x:Name="passwordTextBox" HorizontalAlignment="Center" Width="120" VerticalAlignment="Top" Margin="0,91,0,0" Background="#FFE8F0FE" TextChanged="passwordTextBox_TextChanged"/>
+                <Button x:Name="authButton" Content="Войти" VerticalAlignment="Bottom" HorizontalAlignment="Center" Width="80" Margin="0,0,0,25" Background="#FF164ACF" BorderBrush="{x:Null}" Foreground="White" Click="authButton_Click"/>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</UserControl>

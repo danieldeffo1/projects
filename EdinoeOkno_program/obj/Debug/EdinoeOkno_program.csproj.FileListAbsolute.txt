@@ -1,0 +1,221 @@
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\App.g.cs
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program_MarkupCompile.cache
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program_MarkupCompile.lref
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\EdinoeOkno_program.exe.config
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\EdinoeOkno_program.exe
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\EdinoeOkno_program.pdb
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\Npgsql.dll
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Threading.Channels.dll
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\Npgsql.xml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Threading.Channels.xml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.g.resources
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.Properties.Resources.resources
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.csproj.GenerateResource.cache
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.csproj.CopyComplete
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.exe
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.pdb
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\EdinoeOkno_program.exe.config
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\EdinoeOkno_program.exe
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\EdinoeOkno_program.pdb
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\Npgsql.dll
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Buffers.dll
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Collections.Immutable.dll
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Memory.dll
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Numerics.Vectors.dll
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Text.Encodings.Web.dll
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Text.Json.dll
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Threading.Channels.dll
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.ValueTuple.dll
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\Npgsql.xml
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Buffers.xml
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Collections.Immutable.xml
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Memory.xml
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Numerics.Vectors.xml
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Text.Encodings.Web.xml
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Text.Json.xml
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Threading.Channels.xml
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.ValueTuple.xml
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.csprojAssemblyReference.cache
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\MainWindow.g.cs
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\App.g.cs
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program_MarkupCompile.cache
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program_MarkupCompile.lref
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\MainWindow.baml
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.g.resources
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.Properties.Resources.resources
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.csproj.GenerateResource.cache
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.csproj.CoreCompileInputs.cache
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.csproj.CopyComplete
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.exe
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.pdb
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.csproj.SuggestedBindingRedirects.cache
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\EdinoeOkno_program.exe.config
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\EdinoeOkno_program.exe
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\EdinoeOkno_program.pdb
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\Npgsql.dll
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Buffers.dll
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Collections.Immutable.dll
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Memory.dll
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Text.Json.dll
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Threading.Channels.dll
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.ValueTuple.dll
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\Npgsql.xml
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Buffers.xml
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Collections.Immutable.xml
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Memory.xml
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Text.Json.xml
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Threading.Channels.xml
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.ValueTuple.xml
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.csproj.SuggestedBindingRedirects.cache
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\obj\Debug\MainWindow.g.cs
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\obj\Debug\App.g.cs
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program_MarkupCompile.cache
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program_MarkupCompile.lref
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\obj\Debug\MainWindow.baml
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.g.resources
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.Properties.Resources.resources
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.csproj.GenerateResource.cache
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.csproj.CopyComplete
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.exe
+C:\Users\artem\Desktop\asdasd\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.pdb
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Requests_UserConrol.g.cs
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Requests_UserConrol.baml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Forms_UserControl.g.cs
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Forms_UserControl.baml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Authorization_UserControl.g.cs
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Authorization_UserControl.baml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Questions_UserControl.g.cs
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Аdministration_UserControl.g.cs
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Questions_UserControl.baml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Аdministration_UserControl.baml
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\CsvHelper.dll
+C:\Users\User\Desktop\учеба\Проектная деятельность\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\CsvHelper.xml
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\CsvHelper.dll
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\DotNetProjects.DataVisualization.Toolkit.dll
+D:\repos\EdinoeOkno\EdinoeOkno_program\bin\Debug\CsvHelper.xml
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Authorization_UserControl.g.cs
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Forms_UserControl.g.cs
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Questions_UserControl.g.cs
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Requests_UserConrol.g.cs
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Аdministration_UserControl.g.cs
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Authorization_UserControl.baml
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Forms_UserControl.baml
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Questions_UserControl.baml
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Requests_UserConrol.baml
+D:\repos\EdinoeOkno\EdinoeOkno_program\obj\Debug\Аdministration_UserControl.baml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\EdinoeOkno_program.exe.config
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\EdinoeOkno_program.exe
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\EdinoeOkno_program.pdb
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\CsvHelper.dll
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\Npgsql.dll
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Buffers.dll
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Memory.dll
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Text.Json.dll
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Threading.Channels.dll
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.ValueTuple.dll
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\CsvHelper.xml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\Npgsql.xml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Buffers.xml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Memory.xml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Text.Json.xml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Threading.Channels.xml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\bin\Debug\System.ValueTuple.xml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\Authorization_UserControl.g.cs
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\Forms_UserControl.g.cs
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\MainWindow.g.cs
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\Questions_UserControl.g.cs
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\Requests_UserConrol.g.cs
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\Аdministration_UserControl.g.cs
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\App.g.cs
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program_MarkupCompile.cache
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program_MarkupCompile.lref
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\Authorization_UserControl.baml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\Forms_UserControl.baml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\MainWindow.baml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\Questions_UserControl.baml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\Requests_UserConrol.baml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\Аdministration_UserControl.baml
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.g.resources
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.Properties.Resources.resources
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.csproj.GenerateResource.cache
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.csproj.CopyComplete
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.exe
+C:\Users\Jesus\Desktop\GitProg\EdinoeOkno\EdinoeOkno_program\obj\Debug\EdinoeOkno_program.pdb
